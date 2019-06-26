@@ -210,3 +210,9 @@ textarea::placeholder {
      
 
  }
+ .lm{
+     padding: 0em;
+ }
+ .nav-link{
+    padding:0;
+ }
